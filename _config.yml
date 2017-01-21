@@ -4,7 +4,7 @@ name: Sohail.xyz
 paginate: 25
 paginate_path: "/posts/page/:num/"
 url: http://sohail.xyz
-blog_theme: light # light Or  dark
+blog_theme: dark # light Or  dark
 
 # Optional settings
 
